@@ -1,0 +1,4 @@
+apellidos,nombres,correoelectronico,direccion, id_cliente
+Tester,Carlos,carlos1@test.com,La Victoria,1
+Lopez,Juan, carlos2@test.com, San Borja,2
+Camacho,Christian, carlos3@test.com, Lince,3

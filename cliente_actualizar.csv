@@ -1,0 +1,4 @@
+id_cliente,apellidos,correoelectronico,direccion
+1,Tester1,carlos1@test.com,La Victoria
+2,Lopez1,carlos2@test.com,San Borja
+3,Camacho1,carlos3@test.com,Lince
